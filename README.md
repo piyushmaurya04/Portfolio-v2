@@ -4,7 +4,7 @@ Welcome to my personal portfolio website showcasing my expertise as a Senior Sof
 
 ## 🔗 Live Portfolio
 
-Visit my portfolio: [https://piyushmaurya-portfolio.netlify.app/](https://piyushmaurya-portfolio.netlify.app/)
+Visit my portfolio: [https://piyushmaurya-portfolio-V2.netlify.app/](https://piyushmaurya-portfolio-V2.netlify.app/)
 
 ## 👨‍💻 About Me
 

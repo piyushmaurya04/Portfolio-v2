@@ -1,21 +1,21 @@
 # Portfolio Details — Piyush Maurya (Updated 2026)
 
 > Primary source: `resume.txt` (latest resume)
-> Reference (old site): https://piyushmaurya-portfolio.netlify.app/
+> Reference site: https://piyushmaurya-portfolio-V2.netlify.app/
 > This document is the foundation for building the NEW, improved portfolio website.
 
 ---
 
 ## 1. Personal Profile
 
-| Field | Detail |
-|-------|--------|
-| **Name** | Piyush Maurya |
-| **Title / Role** | Software Engineer — Java / Spring Boot / Kafka |
-| **Location** | Maharashtra, India |
+| Field                | Detail                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| **Name**             | Piyush Maurya                                                                          |
+| **Title / Role**     | Software Engineer — Java / Spring Boot / Kafka                                         |
+| **Location**         | Maharashtra, India                                                                     |
 | **Current Position** | System Engineer at Tata Consultancy Services (TCS) — Enterprise Client Account, Mumbai |
-| **Email** | piyush.maurya0410@gmail.com |
-| **Phone** | +91 8600450745 |
+| **Email**            | piyush.maurya0410@gmail.com                                                            |
+| **Phone**            | +91 8600450745                                                                         |
 
 ---
 
@@ -28,12 +28,14 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 ## 3. Technical Skills
 
 ### Languages
+
 - Java
 - Python
 - JavaScript
 - SQL
 
 ### Backend & Messaging
+
 - Spring Boot
 - REST APIs
 - Apache Kafka
@@ -43,6 +45,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 - OAuth (SASL_SSL)
 
 ### DevOps & Tools
+
 - Git
 - Maven
 - Postman
@@ -52,6 +55,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 - Offset Explorer
 
 ### Frontend & Databases
+
 - HTML
 - CSS
 - JavaScript
@@ -61,6 +65,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 - Oracle SQL (Basic)
 
 ### Practices
+
 - Agile / Scrum
 - Production Support
 - Dead Letter Queue (DLQ) Design
@@ -71,6 +76,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 ## 4. Professional Experience
 
 ### Tata Consultancy Services (TCS) — System Engineer
+
 **Enterprise Client Account | Mumbai, India | Jan 2025 – Present**
 
 - Enhanced an enterprise web application (PSS) by implementing new business features and fixing production defects, improving overall application stability and reliability.
@@ -85,7 +91,8 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 
 ## 5. Projects
 
-### Tenant & Owner Management System (TOM) — *In Progress*
+### Tenant & Owner Management System (TOM) — _In Progress_
+
 **Tech Stack:** Java, Spring Boot, Spring Data JPA (Hibernate), MySQL, Maven
 **Planned:** Spring Security (JWT), React, Python/FastAPI
 
@@ -96,17 +103,23 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 - Planning JWT authentication with per-user data isolation, a React frontend, and a Python/FastAPI microservice using **LLM function-calling** for natural-language queries over the user's own data.
 
 ### Netflix Clone
+
 **Tech:** HTML, CSS, JavaScript
+
 - A replica of the Netflix UI focused on frontend web development techniques.
 - **Repo:** https://github.com/piyushmaurya04/Netflix-Clone-
 
 ### Weather Application
+
 **Tech:** HTML, CSS, JavaScript (Frontend) · Java JSP, Servlets (Backend)
+
 - A dynamic weather application showing real-time weather data.
 - **Repo:** https://github.com/piyushmaurya04/Weather-project
 
 ### Myntra Clone
+
 **Tech:** HTML, CSS, JavaScript
+
 - A responsive Myntra clone with dynamic product listings, interactive shopping cart, user authentication, and add-to-bag functionality.
 - **Repo:** (to be added)
 
@@ -122,6 +135,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
   S.A. Mission English Medium High School, Nandurbar — Percentage: 86.80%
 
 ### Trainings
+
 - **Java Language** — Ashwadeep Computer Classes, Dhule
 - **App Development** — Infotech Incorporate, Dhule
 - **Web Development (Internship)** — TechnoHacks Edutech, Nashik
@@ -140,15 +154,15 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 
 ## 8. Profile / Social Links
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | https://www.linkedin.com/in/piyush-maurya-a1a5a1256/ |
-| **GitHub** | https://github.com/piyushmaurya04 |
-| **Instagram** | https://www.instagram.com/piyushmaurya22?igsh=bnF5N2ZxMDVwdTZj |
-| **X (Twitter)** | https://x.com/piyushmaurya22 |
-| **LeetCode** | https://leetcode.com/u/mauryapiyush30/ |
-| **CodeChef** | https://www.codechef.com/users/piyushmaurya04 |
-| **HackerRank** | https://www.hackerrank.com/profile/piyushmaurya8421 |
+| Platform        | Link                                                           |
+| --------------- | -------------------------------------------------------------- |
+| **LinkedIn**    | https://www.linkedin.com/in/piyush-maurya-a1a5a1256/           |
+| **GitHub**      | https://github.com/piyushmaurya04                              |
+| **Instagram**   | https://www.instagram.com/piyushmaurya22?igsh=bnF5N2ZxMDVwdTZj |
+| **X (Twitter)** | https://x.com/piyushmaurya22                                   |
+| **LeetCode**    | https://leetcode.com/u/mauryapiyush30/                         |
+| **CodeChef**    | https://www.codechef.com/users/piyushmaurya04                  |
+| **HackerRank**  | https://www.hackerrank.com/profile/piyushmaurya8421            |
 
 > Note: Email on latest resume is **piyush.maurya0410@gmail.com** (old site used piyushmaurya0410@gmail.com — confirm which to use).
 
@@ -165,6 +179,7 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 7. **Contact** — email, phone, social links, resume download, contact form
 
 ### Design & Tech Recommendations
+
 - **Stack:** Static website — HTML, CSS, JavaScript (fast, easy to host on Netlify/GitHub Pages).
 - **Theme:** modern dark/light toggle, clean typography, subtle animations.
 - **Must-haves:** responsive, accessible (a11y), SEO meta + Open Graph, fast load.
@@ -173,15 +188,17 @@ Software Engineer skilled in building enterprise Java/Spring Boot applications a
 ---
 
 ## 10. Build Plan
+
 - **Type:** Static website (no backend build step required for hosting).
 - **All projects kept:** TOM (featured) + Netflix Clone + Weather App + Myntra Clone.
 - **All links kept:** LinkedIn, GitHub, Instagram, X, LeetCode, CodeChef, HackerRank + project repos.
 
 ### Open Questions (nice to confirm, not blocking)
+
 1. Which email to show — `piyush.maurya0410@gmail.com` (resume) or `piyushmaurya0410@gmail.com` (old site)?
 2. Do you have a new resume PDF to link for download?
 3. Any brand colors / design preference (minimal, colorful, dark, etc.)?
 
 ---
 
-*Updated to reflect the latest resume. This is the single source of truth for the new static website build.*
+_Updated to reflect the latest resume. This is the single source of truth for the new static website build._
