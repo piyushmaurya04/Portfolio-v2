@@ -623,7 +623,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 }
 @media (max-width: 420px) {
   .hero__cta { flex-direction: column; }
-  .hero__cta .btn { width: 100%; }
+  .hero__cta .btn { width: 100%; white-space: nowrap; }
   .about__stats { grid-template-columns: 1fr; }
   .field input:focus + label, .field input:not(:placeholder-shown) + label,
   .field textarea:focus + label, .field textarea:not(:placeholder-shown) + label { transform: translateY(-16px) scale(.85); }
